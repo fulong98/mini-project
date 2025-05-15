@@ -1,1 +1,2 @@
 - 2025-05-15 13:14:39 : Update README with new info
+- 2025-05-15 13:44:18 : Refactor minor code details
